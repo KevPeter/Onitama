@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aaaba0bd61527304f98a6c3c74cc27d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - movePlate: {instanceID: 0}
+  - redStudent: {instanceID: 0}
+  - redMaster: {instanceID: 0}
+  - blueStudent: {instanceID: 0}
+  - blueMaster: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

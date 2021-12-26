@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 185f15c3a29f2c646b7b374ff6e96d44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pawn: {instanceID: 0}
+  - card: {fileID: 7525266331556201630, guid: b8dfc73c7ed08104a8e96daa110d0f66, type: 3}
+  - cardTest: {instanceID: 0}
+  - cardPosition: {instanceID: 0}
+  - cardPrefab: {instanceID: 0}
+  - swapCard: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
